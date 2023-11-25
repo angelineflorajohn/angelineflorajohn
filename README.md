@@ -128,18 +128,6 @@ I am Angeline Flora and I love computers. Period.
     </li>
   </ul>
 </p>
-<hr>
-<p>
-  🤔 I’m looking for help with
-  <ul>
-    <li>
-      financial freedom
-    </li>
-    <li>
-      playing RPG games such as D&D
-    </li>
-  </ul>
-</p>
 
 
     
