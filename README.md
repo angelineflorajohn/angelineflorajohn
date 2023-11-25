@@ -23,6 +23,7 @@ I am Angeline Flora and I love computers. Period.
   </h3>
   - MyNotes iOS App using CoreData
 </p>
+<hr>
 <p>
   <h3>
     🌱 I’m currently learning
