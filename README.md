@@ -53,7 +53,7 @@ I am Angeline Flora and I love computers. Period.
 </p>
 <hr>
 <p>
-  <h3>
+  <h3 align="center">
     💬 Ask me about
   </h3>
   <ul>
