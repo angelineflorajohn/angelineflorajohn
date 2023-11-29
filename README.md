@@ -76,7 +76,7 @@ I am Angeline Flora and I love computers. Period.
   </h3>
   <ul>
     <li>
-      <a href="mailto: angelineflorajohn@icloud.com"> Email </a>
+      <a href="mailto: angelineflorajohn@icloud.com" target="blank"><img align="center" src="https://github.com/angelineflorajohn/angelineflorajohn/assets/25217498/e01d9e2c-ffcd-487a-9bbd-196bb463f2c7" alt="angelineflorajohn" height="30" width="33" /></a>
     </li>
     <li>
       <a href="https://linkedin.com/in/angelineflorajohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelineflorajohn" height="30" width="40" /></a>
