@@ -45,7 +45,7 @@ I am Angeline Flora and I love computers. Period.
   </h3>
   <ul>
     <li>
-      iOS app apps
+      iOS apps
     </li>
     <li>
       DSA
