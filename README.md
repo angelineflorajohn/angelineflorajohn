@@ -31,6 +31,12 @@ I am Angeline Flora and I love computers. Period.
   </h3>
   <ul>
     <li>
+      Typescript
+    </li>
+    <li>
+      ReactJS
+    </li>
+    <li>
       Swift
     </li>
     <li>
