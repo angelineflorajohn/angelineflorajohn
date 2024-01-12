@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I am Angeline Flora and I love computers. Period. 
 <img align="right" src="https://komarev.com/ghpvc/?username=angelineflorajohn&label=Profile%20views&color=0e75b6&style=flat" alt="angelineflorajohn" />
-
 <p>
   <h3 align="center">
     🔭 I’m currently working on
