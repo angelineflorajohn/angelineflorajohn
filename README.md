@@ -46,14 +46,14 @@ I am Angeline Flora and I love computers. Period.
 <hr>
 <p>
   <h3 align="center">
-    👯 I’m looking to collaborate on
+    🪪 Some of my recent certifications
   </h3>
   <ul>
     <li>
-      iOS apps
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f35bb55c-e119-4e02-8b34-d2716000cbee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </li>
     <li>
-      DSA
+    <a href="https://www.credly.com/badges/69eb62ac-77a5-4713-9b8a-b4cf0c41f67c/public_url"> App Developer for Claris FileMaker Pro Associate </a>
     </li>
   </ul>
 </p>
