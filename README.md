@@ -50,10 +50,13 @@ I am Angeline Flora and I love computers. Period.
   </h3>
   <ul>
     <li>
-      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f35bb55c-e119-4e02-8b34-d2716000cbee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      <a href="https://www.credly.com/badges/f35bb55c-e119-4e02-8b34-d2716000cbee/public_url"> Claris FileMaker Server Administrator Associate </a>
     </li>
     <li>
-    <a href="https://www.credly.com/badges/69eb62ac-77a5-4713-9b8a-b4cf0c41f67c/public_url"> App Developer for Claris FileMaker Pro Associate </a>
+      <a href="https://www.credly.com/badges/69eb62ac-77a5-4713-9b8a-b4cf0c41f67c/public_url"> App Developer for Claris FileMaker Pro Associate </a>
+    </li>
+    <li>
+      <a href="https://www.credly.com/badges/adc0bf10-8b5a-497f-a131-00b109555947/public_url"> App Developer for Claris FileMaker Pro Specialist </a>
     </li>
   </ul>
 </p>
