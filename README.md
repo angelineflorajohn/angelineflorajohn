@@ -58,6 +58,9 @@ I am Angeline Flora and I love computers. Period.
     <li>
       <a href="https://www.credly.com/badges/adc0bf10-8b5a-497f-a131-00b109555947/public_url"> App Developer for Claris FileMaker Pro Specialist </a>
     </li>
+    <li>
+      <a href="https://www.credly.com/badges/a3cb8319-888c-4ab5-8ef7-ed541e10519c/public_url"> App Developer for Claris Connect Associate </a>
+    </li>
   </ul>
 </p>
 <hr>
